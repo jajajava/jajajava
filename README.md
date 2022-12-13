@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jajajava
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently working on my final project for Flatiron school
+- 🎓 I'm a Flatiron graduate
 - 📫 How to reach me: davidstepanov@yahoo.com
 
 <!---
