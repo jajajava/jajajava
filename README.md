@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jajajava
-- 👀 I’m interested in front-end web development
-- 🎓 I'm a Flatiron graduate, currently in college for a BS in computer science
+- 🎓 I'm a Flatiron graduate, currently attending college to pursue a BS in computer science
 - 📫 How to reach me: davidstepanov@yahoo.com
 
 <!---
