@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @jajajava
-- 🎓 I'm a Flatiron graduate, currently pursuing a BS in computer science
+- 🎓 I'm currently pursuing a BS in computer science, on track to graduate December 2025.
+- I completed the software engineering course at Flatiron School.
+- I'm most interested in software engineering and data science, but I'm open to other exciting possibilities!
 - 📫 How to reach me: ds29123@georgiasouthern.edu
 
 <!---
